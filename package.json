@@ -1,0 +1,22 @@
+{
+  "name": "lesson-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass ./scss/index.scss ./css/index.css",
+    "sass:watch": "sass ./scss/index.scss ./css/index.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga1011/Lesson-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olga1011/Lesson-9/issues"
+  },
+  "homepage": "https://github.com/Olga1011/Lesson-9#readme"
+}

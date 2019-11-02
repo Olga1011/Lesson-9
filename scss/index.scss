@@ -1,0 +1,38 @@
+@import 'mixins';
+@import 'grid';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 50%;
+    border: 2px solid white;
+    box-shadow:  5px 10px 8px 10px rgb(192, 189, 189);
+}
+
+.orange {
+    background-color: orange;
+    height: 50px;
+}
+
+.green {
+    background-color: rgb(26, 112, 26);
+    height: 150px;
+}
+
+.blue {
+    background-color: rgb(8, 70, 70);
+    height: 100px;
+}
+
+.grey {
+    background-color: silver;
+    height: 200px;
+}
+
+  
+    
